@@ -20,7 +20,6 @@ arr.map(item => <li>item</li>)
 console.log(arr)
 ```
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ5NTcyMDFdfQ==
+eyJoaXN0b3J5IjpbODA3MjgxOTA3XX0=
 -->
