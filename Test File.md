@@ -20,6 +20,17 @@ arr.map(item => <li>item</li>)
 console.log(arr)
 ```
 
+Item | Value
+-------- | -----
+Computer | $1600
+Phone | $12
+Pipe | $1 
+
+`inline code`
+
+| Column 1 | Column 2 |
+|:--------:| -------------:|
+| centered | right-aligned |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3MjgxOTA3XX0=
+eyJoaXN0b3J5IjpbMjA1NDkyNDAxMyw4MDcyODE5MDddfQ==
 -->
